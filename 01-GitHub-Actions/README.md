@@ -102,15 +102,7 @@ YAML knowledge is heavily used across:
 * GitLab CI/CD
 * Azure Pipelines
 
-Resources:
 
-* Video:
-  [https://youtu.be/LT3U9fkOVDQ](https://youtu.be/LT3U9fkOVDQ)
-
-* GitHub Notes:
-  [https://github.com/CloudWithVarJosh/CKA-Certification-Course-2025/tree/main/Day%2009](https://github.com/CloudWithVarJosh/CKA-Certification-Course-2025/tree/main/Day%2009)
-
----
 
 #### **3. Understanding Modern SDLC**
 
