@@ -1,25 +1,5 @@
 # GitHub JavaScript & Docker Actions Explained | Hands-on Demos
 
-## Video reference for this lecture is the following:
-
-[![Watch the video](https://img.youtube.com/vi/sjSmSzMJL5s/maxresdefault.jpg)](https://www.youtube.com/watch?v=sjSmSzMJL5s&ab_channel=CloudWithVarJosh)
-
----
-
-
-## ⭐ Support the Project  
-
-If this **repository** helps you, give it a ⭐ to show your support and help others discover it! 
-
----
-
-## Need Personalized Guidance on Cloud & DevOps?
-
-Whether you're starting your Cloud & DevOps journey, preparing for interviews, pursuing certifications, designing cloud architectures, enhancing your resume, or planning your next career move, I'm here to help. Book a personalized 1:1 mentoring session tailored to your goals.
-
-👉 **[Book a 1:1 Mentoring Session](https://topmate.io/cloudwithvarjosh)**
-
----
 
 ## Table of Contents
 
