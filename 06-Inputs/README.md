@@ -1,16 +1,6 @@
 # GitHub Actions Inputs Explained | Workflow Inputs, Reusable Workflows & Production Use Cases
 
-## Video reference for this lecture is the following:
 
-[![Watch the video](https://img.youtube.com/vi/fLZRgNhQq3w/maxresdefault.jpg)](https://youtu.be/fLZRgNhQq3w)
-
----
-
-## ⭐ Support the Project  
-
-If this **repository** helps you, give it a ⭐ to show your support and help others discover it! 
-
----
 
 ## Table of Contents
 
