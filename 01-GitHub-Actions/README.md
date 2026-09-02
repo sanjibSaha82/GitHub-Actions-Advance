@@ -81,11 +81,7 @@ Recommended topics:
 
 Resources:
 
-* YouTube Playlist:
-  [https://www.youtube.com/playlist?list=PLmPit9IIdzwT6nq8hIuf7MBcPVzw3cX3K](https://www.youtube.com/playlist?list=PLmPit9IIdzwT6nq8hIuf7MBcPVzw3cX3K)
 
-* GitHub Notes:
-  [https://github.com/CloudWithVarJosh/Git-Masterclass](https://github.com/CloudWithVarJosh/Git-Masterclass)
 
 ---
 
@@ -133,11 +129,6 @@ Topics covered:
 
 Resources:
 
-* Video:
-  [https://youtu.be/imEHsgvJbYo](https://youtu.be/imEHsgvJbYo)
-
-* GitHub Notes:
-  [https://github.com/CloudWithVarJosh/Jenkins-Basics-To-Production/tree/main/Day%2001](https://github.com/CloudWithVarJosh/Jenkins-Basics-To-Production/tree/main/Day%2001)
 
 ---
 
@@ -157,14 +148,6 @@ Topics covered:
 * **GitFlow vs Trunk-Based Development**
 * Environment promotion strategies
 * Production deployment workflows
-
-Resources:
-
-* Video:
-  [https://youtu.be/szPE1NKc614](https://youtu.be/szPE1NKc614)
-
-* GitHub Notes:
-  [https://github.com/CloudWithVarJosh/Jenkins-Basics-To-Production/tree/main/Day%2002](https://github.com/CloudWithVarJosh/Jenkins-Basics-To-Production/tree/main/Day%2002)
 
 
 ---
@@ -189,12 +172,7 @@ Whenever deeper understanding of a tool becomes necessary, I will explicitly poi
 
 If you would like to learn these technologies, you can explore the curated playlists and tutorials available on the channel:
 
-* **Git:** [Git Masterclass](https://www.youtube.com/playlist?list=PLmPit9IIdzwT6nq8hIuf7MBcPVzw3cX3K)
-* **Kubernetes & CKA Prep:** [CKA Course Preparation](https://lnkd.in/g-7UEQfk)
-* **Argo CD & GitOps:** [Argo CD Tutorial Series](https://youtu.be/m4lDTQwK1T8)
-* **Maven:** [Maven Tutorial](https://youtu.be/3OKc5y_3wMM)
-* **DevSecOps & SonarQube:** [DevSecOps and SonarQube Tutorial](https://youtu.be/qyYsLVZDieU)
-* **Real-World Kubernetes Projects:** [Kubernetes Projects Playlist](https://lnkd.in/gg4tFfTD)
+
 
 
 ---
