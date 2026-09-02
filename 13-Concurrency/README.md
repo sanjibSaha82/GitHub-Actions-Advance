@@ -1,24 +1,6 @@
 # GitHub Actions Concurrency Explained | Prevent Overlapping Runs & Control Workflow Execution.
 
-## Video reference for this lecture is the following:
 
-[![Watch the video](https://img.youtube.com/vi/0wXdpfNSWuI/maxresdefault.jpg)](https://www.youtube.com/watch?v=0wXdpfNSWuI&ab_channel=CloudWithVarJosh)
-
----
-
-## ⭐ Support the Project  
-
-If this **repository** helps you, give it a ⭐ to show your support and help others discover it! 
-
----
-
-## Need Personalized Guidance on Cloud & DevOps?
-
-Whether you're starting your Cloud & DevOps journey, preparing for interviews, pursuing certifications, designing cloud architectures, enhancing your resume, or planning your next career move, I'm here to help. Book a personalized 1:1 mentoring session tailored to your goals.
-
-👉 **[Book a 1:1 Mentoring Session](https://topmate.io/cloudwithvarjosh)**
-
----
 
 ## Table of Contents
 
@@ -69,7 +51,7 @@ Finally, through a hands-on demo, we will observe the default behavior of overla
 
 ### Why GitHub Actions Concurrency?
 
-![Alt text](/images/13a.png)
+
 
 A workflow does not necessarily run only once at a time. Depending on how we configure its triggers, **a new workflow run can be triggered while an earlier run is still executing**. Multiple workflow runs are normal and, in many cases, allowing them to execute concurrently is exactly what we want.
 
