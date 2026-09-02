@@ -1,16 +1,6 @@
 # GitHub Actions Matrix Strategy Explained | Multi-OS, Multi-Version Testing at Scale
 
-## Video reference for this lecture is the following:
 
-[![Watch the video](https://img.youtube.com/vi/B5XzHnO_guo/maxresdefault.jpg)](https://www.youtube.com/watch?v=B5XzHnO_guo&ab_channel=CloudWithVarJosh)
-
----
-
-## ⭐ Support the Project  
-
-If this **repository** helps you, give it a ⭐ to show your support and help others discover it! 
-
----
 
 ## Table of Contents
 
