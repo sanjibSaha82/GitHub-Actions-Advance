@@ -1,14 +1,6 @@
 # GitHub Actions Workflow Logic Explained | Filters, Contexts, Variables & Expressions
 
-## Video reference for this lecture is the following:
 
-[![Watch the video](https://img.youtube.com/vi/KIH79Y3xJ8c/maxresdefault.jpg)](https://www.youtube.com/watch?v=KIH79Y3xJ8c&ab_channel=CloudWithVarJosh)
-
----
-## ⭐ Support the Project  
-If this **repository** helps you, give it a ⭐ to show your support and help others discover it! 
-
----
 
 ## Table of Contents
 * [Introduction](#introduction)  
@@ -416,14 +408,6 @@ Before starting this demo, ensure that you already:
 * are authenticated with GitHub
 * can push code successfully using Git
 
-These concepts were covered extensively in **Lecture 01.**
-* [Lecture 01 Video](https://youtu.be/w4c_NIjO3XI?)
-* [Lecture 01 GitHub Notes](https://github.com/CloudWithVarJosh/GitHub-Actions-Basics-To-Production/tree/main/01-GitHub-Actions?)
-
-For this lecture, we will use the following repository:
-
-* **Repository Name:** `cwvj-gha-practice`
-* **Visibility:** Private
 
 ---
 
