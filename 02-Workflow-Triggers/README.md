@@ -1,8 +1,6 @@
 # GitHub Actions Triggers & Runners Explained | Events, Contexts & Hosted Runners
 
-## Video reference for this lecture is the following:
 
-[![Watch the video](https://img.youtube.com/vi/zpDH_tfOOqc/maxresdefault.jpg)](https://www.youtube.com/watch?v=zpDH_tfOOqc&ab_channel=CloudWithVarJosh)
 
 ---
 ## ⭐ Support the Project  
@@ -246,18 +244,9 @@ Ensure you already:
 * Are authenticated with GitHub
 * Can push code successfully using Git
 
-These concepts were covered extensively in Lecture 01.
 
-Lecture 01 Video:
-https://youtu.be/w4c_NIjO3XI
 
-Lecture 01 GitHub Notes:
-https://github.com/CloudWithVarJosh/GitHub-Actions-Basics-To-Production/tree/main/01-GitHub-Actions
 
-For this lecture, I will use the following repository throughout the demo:
-
-* Repository Name: `cwvj-gha-practice`
-* Visibility: `Private`
 
 ---
 
