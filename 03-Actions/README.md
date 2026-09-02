@@ -346,14 +346,7 @@ Before starting this demo, ensure that you already:
 * are authenticated with GitHub
 * can push code successfully using Git
 
-These concepts were covered extensively in **Lecture 01.**
-* [Lecture 01 Video](https://youtu.be/w4c_NIjO3XI?)
-* [Lecture 01 GitHub Notes](https://github.com/CloudWithVarJosh/GitHub-Actions-Basics-To-Production/tree/main/01-GitHub-Actions?)
 
-For this lecture, we will use the following repository:
-
-* **Repository Name:** `cwvj-gha-practice`
-* **Visibility:** Private
 
 > **Operational Note:** GitHub Actions workflows execute directly inside repositories. Whenever workflow YAML files are pushed into the repository, GitHub automatically detects and evaluates them based on configured workflow triggers.
 
