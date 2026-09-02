@@ -1,16 +1,6 @@
 # GitHub Actions Outputs Explained | Step, Job & Reusable Workflow Outputs
 
-## Video reference for this lecture is the following:
 
-[![Watch the video](https://img.youtube.com/vi/gkIXTCr1Iiw/maxresdefault.jpg)](https://www.youtube.com/watch?v=gkIXTCr1Iiw&ab_channel=CloudWithVarJosh)
-
----
-
-## ⭐ Support the Project  
-
-If this **repository** helps you, give it a ⭐ to show your support and help others discover it! 
-
----
 
 ## Table of Contents
 
