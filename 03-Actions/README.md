@@ -1,12 +1,5 @@
-# Build Your First Production-Style Workflow with GitHub Actions
 
-## Video reference for this lecture is the following:
 
-[![Watch the video](https://img.youtube.com/vi/IV2Focqf11Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=IV2Focqf11Q&ab_channel=CloudWithVarJosh)
-
----
-## ⭐ Support the Project  
-If this **repository** helps you, give it a ⭐ to show your support and help others discover it! 
 
 ---
 
