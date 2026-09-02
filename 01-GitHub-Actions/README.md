@@ -1,14 +1,4 @@
-# What is GitHub Actions | Build Your First Workflow from Scratch
 
-## Video reference for this lecture is the following:
-
-[![Watch the video](https://img.youtube.com/vi/w4c_NIjO3XI/maxresdefault.jpg)](https://www.youtube.com/watch?v=w4c_NIjO3XI)
-
----
-## ⭐ Support the Project  
-If this **repository** helps you, give it a ⭐ to show your support and help others discover it! 
-
----
 
 ## Table of Contents
 
